@@ -16,3 +16,7 @@ Algumas diferenças em relação ao projeto sugerido: A entrada de dados é feit
 
 
 
+ALUNOS:  CARLOS EDUARDO DELGADO FERREIRA  
+ GABRIEL LUIZ BATISTA PASSOS 
+ PETERSON DE AZEVEDO
+ 
