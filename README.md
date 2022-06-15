@@ -13,7 +13,7 @@ Para o projeto foi utilizado Swing, como determinado pelo professor.
 
 Algumas diferenças em relação ao projeto sugerido: A entrada de dados é feita toda de uma vez, ao inves de selecionando numeros e entrando cada dado de uma vez, existem mascaras nos campos, o local para salvar e carregar o arquivo de dados é dinamico e não fixo.
 
-
+![alt text](https://i.imgur.com/vKtGfZU.png)
 
 
 ALUNOS:  CARLOS EDUARDO DELGADO FERREIRA  
